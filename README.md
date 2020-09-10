@@ -14,7 +14,7 @@ This project uses the  [Point Cloud Library](https://pointclouds.org/) (PCL). PC
 
 The project comprises of using the "RANdom SAmple Consensus" ([RANSAC](http://wiki.ros.org/pcl/Handbook/RANSAC)) algorithm to create point-clouds of random objects/things kept on a cluttered table.A successful implementation of the algorithm results in creating new point clouds containing the table and objects separately. The README corresponding to the project repo briefly explains the process and the filtering technique used, more can be found here - [python-pcl](https://python-pcl-fork.readthedocs.io/en/rc_patches4/tutorial/filtering.html#filtering-a-pointcloud-using-a-passthrough-filter).
 
-#### Click here for [Project Details](https://github.com/ashutoshtiwari13/ROS-PCL-Segmentation/tree/master/ransac_pointcloud)
+#### Click 👉 for [Project Details](https://github.com/ashutoshtiwari13/ROS-PCL-Segmentation/tree/master/ransac_pointcloud)
 
 <img src="https://github.com/ashutoshtiwari13/ROS-PCL-Segmentation/blob/master/ransac_pointcloud/voxel.png" height="425px" width="380px" hspace="20"/><img src="https://github.com/ashutoshtiwari13/ROS-PCL-Segmentation/blob/master/ransac_pointcloud/pass_through.png" height="425px" width="400px"/>
 
@@ -28,12 +28,19 @@ A successful implementation of the cluster based segmentation using [Voxel Grid 
 
 The `Gazebo` setup for the same table top consists of a stick robot with an RBG-D camera attached to its head.  
 
-#### Click here for [Project Details](https://github.com/ashutoshtiwari13/ROS-PCL-Segmentation/tree/master/ransac_pointcloud)
+#### Click 👉 for  [Project Details](https://github.com/ashutoshtiwari13/ROS-PCL-Segmentation#Image-Segmentation)
 
 
 <img src="https://github.com/ashutoshtiwari13/ROS-PCL-Segmentation/blob/master/sensor_stick/pcl1.png" height="425px" width="380px" hspace="20"/><img src="https://github.com/ashutoshtiwari13/ROS-PCL-Segmentation/blob/master/sensor_stick/pcl2.png" height="425px" width="400px"/>
 
 ## Object Recognition and Labelling
+This project uses scripts and concepts from RANSAC plane fitting and Image segmentation to ultimately recognize objects on the cluttered table. A SVM classifier is trained to detect the objects kept on the cluttered table.
+
+#### Click 👉 for  [Project Details](https://github.com/ashutoshtiwari13/ROS-PCL-Segmentation#Object-Recognition-and-Labelling)
+
+< p align="center">
+<img src="https://github.com/ashutoshtiwari13/ROS-PCL-Segmentation/blob/master/object_recognize/obj_recognize.png" height="425px" width="380px"/>
+</p>
 
 ## PR2-Robot 3D Perception and Control
 
