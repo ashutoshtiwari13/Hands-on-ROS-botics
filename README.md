@@ -1,12 +1,12 @@
 ## Robotics projects involving ROS
 This repository is dedicated to showcasing some of my major and mini-Robotics projects done as a part of courseware and Robotics Nanodegree. Each project has links to its corresponding project repo and README.
 
-### 1. [RANSAC plane fitting using PCL](#RANSAC-plain-fitting-using-PCL)
-### 2. [Image Segmentation using PCL](#Image-Segmentation-using-PCL)
-### 3. [Object Recognition and Labelling](#Object-Recognition-and-Labelling)
-### 4. [PR2-Robot 3D Perception and Control](#PR2-Robot-3D-Perception-and-Control)
-### 5. [Ball Chaser using ROS Kinetic Navigation](#Ball-Chaser-using-ROS-Kinetic-Navigation)
-### 6. [Map the Robot World using SLAM and RTAB-MAP](#Map-the-Robot-World-using-SLAM-and-RTAB-MAP)
+#### 1. [RANSAC plane fitting using PCL](#RANSAC-plain-fitting-using-PCL)
+#### 2. [Image Segmentation using PCL](#Image-Segmentation-using-PCL)
+#### 3. [Object Recognition and Labelling](#Object-Recognition-and-Labelling)
+#### 4. [PR2-Robot 3D Perception and Control](#PR2-Robot-3D-Perception-and-Control)
+#### 5. [Ball Chaser using ROS Kinetic Navigation](#Ball-Chaser-using-ROS-Kinetic-Navigation)
+#### 6. [Map the Robot World using SLAM and RTAB-MAP](#Map-the-Robot-World-using-SLAM-and-RTAB-MAP)
 
 ## RANSAC plane fitting using PCL
 
