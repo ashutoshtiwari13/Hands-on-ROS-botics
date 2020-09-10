@@ -38,8 +38,8 @@ This project uses scripts and concepts from RANSAC plane fitting and Image segme
 
 #### Click 👉 for  [Project Details](https://github.com/ashutoshtiwari13/ROS-PCL-Segmentation#Object-Recognition-and-Labelling)
 
-< p align="center">
-<img src="https://github.com/ashutoshtiwari13/ROS-PCL-Segmentation/blob/master/object_recognize/obj_recognize.png" height="425px" width="380px"/>
+<p align="center">
+<img src="https://github.com/ashutoshtiwari13/ROS-PCL-Segmentation/blob/master/object_recognize/obj_recognize.png"/>
 </p>
 
 ## PR2-Robot 3D Perception and Control
