@@ -7,6 +7,7 @@ This repository is dedicated to showcasing some of my major and mini-Robotics pr
 #### 4. [PR2-Robot 3D Perception and Control](#PR2-Robot-3D-Perception-and-Control)
 #### 5. [Ball Chaser using ROS Kinetic Navigation](#Ball-Chaser-using-ROS-Kinetic-Navigation)
 #### 6. [Map the Robot World using SLAM and RTAB-MAP](#Map-the-Robot-World-using-SLAM-and-RTAB-MAP)
+#### 7. [Kuka-Robotic Arm Pick and Drop](#Kuka-Robotic-Arm-Pick-and-Drop)
 
 ## RANSAC plane fitting using PCL
 
@@ -50,13 +51,36 @@ The project deals with three test world scenarios one of whose results is shown 
 
 #### Click 👉 for  [Project Details](https://github.com/ashutoshtiwari13/PR2Robot-3D-Perception)
 
+<img src="https://github.com/ashutoshtiwari13/PR2Robot-3D-Perception/blob/master/pr2_robot/run/world1.jpg" height="350px" width="380px" hspace="20"/><img src="https://github.com/ashutoshtiwari13/PR2Robot-3D-Perception/blob/master/pr2_robot/run/obj2.png" height="350px" width="380px"/>
+
+
 <img src="https://github.com/ashutoshtiwari13/PR2Robot-3D-Perception/blob/master/pr2_robot/run/world3.jpg" height="350px" width="380px" hspace="20"/><img src="https://github.com/ashutoshtiwari13/PR2Robot-3D-Perception/blob/master/pr2_robot/run/obj3.png" height="350px" width="380px"/>
 
 ## Ball Chaser using ROS Kinetic Navigation
-
+A mini-project build as a part of major SLAM project which uses ROS and Gazebo to build a mobile robot for chasing a white ball in a room.
 #### Click 👉 for  [Project Details](https://github.com/ashutoshtiwari13/Map-a-world-with-SLAM/tree/master/GochaseIt)
 
+<p align="center">
+<img src="https://github.com/ashutoshtiwari13/Map-a-world-with-SLAM/blob/master/GochaseIt/my_ball/chasing.gif"/>
+</p>
 
 ## Map the Robot World using SLAM and RTAB-MAP
+SLAM(Simultaneous Localization and mapping) (Nvidia Article [here](https://blogs.nvidia.com/blog/2019/07/25/what-is-simultaneous-localization-and-mapping-nvidia-jetson-isaac-sdk/)) is a technology where a robot builds a map representing its spatial environment while keeping a track of its position within the built map. Real-time apperance based mapping (RTAB) is RGB-D , stereo , Graph based SLAM approach based on incremental appearance-based loop closure detector. More [here](http://introlab.github.io/rtabmap/).
+
+This project is about implementing SLAM(Simultaneous Localization and mapping) with RTAB-MAP(Real-Time Appearance-Base Mapping) package. Two 2D occupancy grid and a 3D octomap is created from a simulated environment. The results show the robot successfully localizing and mapping itself in the surrounding.
 
 #### Click 👉 for  [Project Details](https://github.com/ashutoshtiwari13/Map-a-world-with-SLAM)
+
+
+<img src="https://github.com/ashutoshtiwari13/Map-a-world-with-SLAM/blob/master/output/localization_2.gif" height="425px" width="380px" hspace="20"/><img src="https://github.com/ashutoshtiwari13/Map-a-world-with-SLAM/blob/master/output/localization.gif" height="425px" width="400px"/>
+
+
+<img src="https://github.com/ashutoshtiwari13/Map-a-world-with-SLAM/blob/master/output/local_3.gif" height="425px" width="380px" hspace="20"/><img src="https://github.com/ashutoshtiwari13/Map-a-world-with-SLAM/blob/master/output/local_4.gif" height="425px" width="400px"/>
+
+## Kuka-Robotic Arm Pick and Drop
+
+<p align="center">
+<img src="https://github.com/ashutoshtiwari13/Kuka-robotic-arm-Pick-Drop/blob/master/PickAndDrop.gif" height="400px" width="700px"/>
+</p>
+
+#### Click 👉 for  [Project Details](https://github.com/ashutoshtiwari13/Kuka-robotic-arm-Pick-Drop)
