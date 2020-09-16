@@ -4,7 +4,7 @@ This repository is dedicated to showcasing some of my major and mini-Robotics pr
 #### 1. [RANSAC plane fitting using PCL](#RANSAC-plain-fitting-using-PCL)
 #### 2. [Image Segmentation using PCL](#Image-Segmentation-using-PCL)
 #### 3. [Object Recognition and Labelling](#Object-Recognition-and-Labelling)
-#### 4. [PR2-Robot 3D Perception and Control](#PR2-Robot-3D-Perception-and-Control)
+#### 4. [PR2-Robot 3D Perception and Control Using MoveIt!](#PR2-Robot-3D-Perception-and-Control-using-MoveIt!)
 #### 5. [Ball Chaser using ROS Kinetic Navigation](#Ball-Chaser-using-ROS-Kinetic-Navigation)
 #### 6. [Map the Robot World using SLAM and RTAB-MAP](#Map-the-Robot-World-using-SLAM-and-RTAB-MAP)
 #### 7. [Kuka-Robotic Arm Pick and Drop](#Kuka-Robotic-Arm-Pick-and-Drop)
